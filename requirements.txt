@@ -1,0 +1,16 @@
+# === Core ML & Data Handling ===
+numpy
+pandas
+scikit-learn
+joblib
+
+# === OCR & Image Processing ===
+pillow
+pytesseract
+
+# === Web App UI ===
+streamlit
+
+# === Optional Enhancements ===
+matplotlib
+seaborn
